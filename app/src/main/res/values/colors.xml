@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="nc_black">#000000</color>
+    <color name="nc_white">#fbfbfb</color>
+    <color name="nc_gray">#717171</color>
+    <color name="nc_orange">#ea8d09</color>
+    <color name="nc_blue">#5168dc</color>
+    <color name="nc_dark_gray">#848989</color>
+</resources>
